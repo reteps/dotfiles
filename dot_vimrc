@@ -6,3 +6,10 @@ runtime! plugin/sensible.vim
 
 syntax on
 colorscheme onedark
+
+
+noremap n h
+noremap e j
+noremap i k
+noremap o l
+noremap I i

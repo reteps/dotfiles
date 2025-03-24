@@ -1,0 +1,22 @@
+[tools]
+bat = "latest"
+"cargo:eza" = "latest"
+difftastic = "latest"
+fd = "latest"
+fzf = "latest"
+go = "latest"
+"go:github.com/dhth/act3" = "latest"
+hadolint = "latest"
+hyperfine = "latest"
+jq = "latest"
+node = "latest"
+"npm:tsx" = "latest"
+python = "3.13.1"
+ripgrep = "latest"
+"ubi:terrastruct/d2" = "latest"
+usage = "latest"
+uv = "latest"
+zoxide = "latest"
+
+[settings]
+experimental = true
